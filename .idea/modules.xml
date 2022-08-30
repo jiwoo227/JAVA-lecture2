@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
       <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
       <module fileurl="file://$PROJECT_DIR$/object and memories/object and memories.iml" filepath="$PROJECT_DIR$/object and memories/object and memories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/package and static.iml" filepath="$PROJECT_DIR$/static/package and static.iml" />
       <module fileurl="file://$PROJECT_DIR$/this/this.iml" filepath="$PROJECT_DIR$/this/this.iml" />
     </modules>
   </component>
