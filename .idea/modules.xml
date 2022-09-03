@@ -3,14 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVApractice2.iml" filepath="$PROJECT_DIR$/.idea/JAVApractice2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/class and object/class and object.iml" filepath="$PROJECT_DIR$/class and object/class and object.iml" />
-      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
-      <module fileurl="file://$PROJECT_DIR$/heritor/heritor.iml" filepath="$PROJECT_DIR$/heritor/heritor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/inner and anonymous/inner and anonymoust.iml" filepath="$PROJECT_DIR$/inner and anonymous/inner and anonymoust.iml" />
-      <module fileurl="file://$PROJECT_DIR$/loop/loop.iml" filepath="$PROJECT_DIR$/loop/loop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
-      <module fileurl="file://$PROJECT_DIR$/object and memories/object and memories.iml" filepath="$PROJECT_DIR$/object and memories/object and memories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/클래스와 객체/class and object.iml" filepath="$PROJECT_DIR$/클래스와 객체/class and object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/데이터/data.iml" filepath="$PROJECT_DIR$/데이터/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/상속자/heritor.iml" filepath="$PROJECT_DIR$/상속자/heritor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/내부 클래스와 익명 클래스/inner and anonymoust.iml" filepath="$PROJECT_DIR$/내부 클래스와 익명 클래스/inner and anonymoust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/인터페이스/interface.iml" filepath="$PROJECT_DIR$/인터페이스/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/반복문/loop.iml" filepath="$PROJECT_DIR$/반복문/loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/메소드/method.iml" filepath="$PROJECT_DIR$/메소드/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/객체/object.iml" filepath="$PROJECT_DIR$/객체/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/객체와 메모리/object and memories.iml" filepath="$PROJECT_DIR$/객체와 메모리/object and memories.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/package and static.iml" filepath="$PROJECT_DIR$/static/package and static.iml" />
       <module fileurl="file://$PROJECT_DIR$/this/this.iml" filepath="$PROJECT_DIR$/this/this.iml" />
     </modules>
