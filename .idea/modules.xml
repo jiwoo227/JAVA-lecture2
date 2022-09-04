@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVApractice2.iml" filepath="$PROJECT_DIR$/.idea/JAVApractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/추상클래스/abstract.iml" filepath="$PROJECT_DIR$/추상클래스/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/클래스와 객체/class and object.iml" filepath="$PROJECT_DIR$/클래스와 객체/class and object.iml" />
       <module fileurl="file://$PROJECT_DIR$/데이터/data.iml" filepath="$PROJECT_DIR$/데이터/data.iml" />
       <module fileurl="file://$PROJECT_DIR$/상속자/heritor.iml" filepath="$PROJECT_DIR$/상속자/heritor.iml" />
